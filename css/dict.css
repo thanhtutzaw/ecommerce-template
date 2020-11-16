@@ -1,0 +1,43 @@
+html{
+	margin:0;
+	padding:0;
+}
+.font-size-16{
+	font-size:16px;
+}
+.font-size-16{
+	font-size:13px;
+}
+.font-nu{
+	font-family: 'Nunito', sans-serif;
+}
+.bg-blue{
+	background-color:#77C0D1;
+}
+
+
+
+
+.zawgyi {
+font-family:Zawgyi-One;
+}
+.ml-3, .mx-3 {
+    margin-right:0px !important;
+}
+.container{
+    margin-right:530px;
+    margin-top: -320px;
+}
+.container-fluid .role{
+    border-bottom: 2px solid white;
+}
+.scope{
+    font-weight: bold;
+}
+.scope-bold{
+    font-weight: bold;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
